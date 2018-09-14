@@ -1,0 +1,15 @@
+-i have learned a thing or two about commits 
+i think its all about when to save a version
+of the project your working on, it is all about when to do it
+i have learnd that i need to chose the right time to save a version of my project 
+like for instance  when there is a logical changing in the project 
+and i learnd that i should never unsave for too long like working on some project for 
+a week without saving , thats not good,
+or when you h
+
+-well i think thats becaus in google docs is not for coding so when ever there is a change 
+that would not effect the rest of the doc but in coding it is completly deffirent ,
+
+-to view the history of a file using git  you need first to to use git loge to get the id of the commits that you want to compare then you compare them by using this comman : 
+git diff  first-id second-id
+then the  differences will be loget into the command preompt and you can see all cahnges 
