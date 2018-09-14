@@ -1,0 +1,11 @@
+- What happens when you initialize a repository? Why do you need to do it?
+   well a repository will be created ,
+   you do that to be able to track files in the repository or the file that
+   pre-exist in the directory you created the 
+repository in 
+- How is the staging area different from the working directory and 
+  the repository? What value do you think it offers?
+  the staging area stands between the directory and the repository 
+  it's like an intermediat state 
+  where the files are stay befor being tracked 
+  it gives the ability to know which files are tracked and which are not
