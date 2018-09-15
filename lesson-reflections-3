@@ -7,3 +7,8 @@
    if i make git automatically stay up-to-date with my remote repository , then when someone makes
    any changes to the remote , the changes would also be to my local repository and i don't want
    that to hapen ,so pulling changes manualy is better 
+-what are  branchs,forks and clones ?
+   -branch : is a series of commits , a project can contain any number of branches 
+   -clone  : cloning is copying a repository from  gihub cloud into your pc 
+   - fork  : forkis a copie of a repository on github ,  forking is cloning on github from one a count 
+     into another acount without having to clone in to  your computer then to github repository 
