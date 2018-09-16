@@ -12,3 +12,7 @@
    -clone  : cloning is copying a repository from  gihub cloud into your pc 
    - fork  : forkis a copie of a repository on github ,  forking is cloning on github from one a count 
      into another acount without having to clone in to  your computer then to github repository 
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+    having a copy of the last known state of the remote stored locally is actually an important thing 
+    for developers so that when they are offline they would be able to check the changes on the remote 
+    and even merge, compare ... , 
