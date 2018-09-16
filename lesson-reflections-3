@@ -16,3 +16,4 @@
     having a copy of the last known state of the remote stored locally is actually an important thing 
     for developers so that when they are offline they would be able to check the changes on the remote 
     and even merge, compare ... , 
+ this is a conflict a created on purpose 
